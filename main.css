@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel {
+    margin-top: 20px;
+}
+
+.carousel,
+.carousel-item {
+    max-height: 25em;
+}
+
+h3 {
+    padding-top: 18px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cocol-sm-12,
+.col-md-6,
+.col-lg-4 {
+    padding: 12px ;
+}
